@@ -1,4 +1,4 @@
-# Misc - Free Proxy (7 solves / 499 points)
+# Forensics - Free Proxy (7 solves / 499 points)
 
 <p align="center">
   <img src="images/proxyDescription.png">
